@@ -1,5 +1,5 @@
 body{
-    background: gray;
+    background: whitesmoke;
 
 }
 
@@ -10,5 +10,8 @@ body{
 p {
     font-size: 20px;
     text-align: center;
-    background: red;
+}
+
+ul li::marker{
+    content: "";
 }
