@@ -15,3 +15,12 @@ p {
 ul li::marker{
     content: "";
 }
+.lista{
+display: inline-block;
+
+}
+.largura{
+width: 280px;
+float: left;
+background-color: rgb(174, 224, 224);
+}
